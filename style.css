@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(26, 47, 68);
-    color: white;
+    background-color: #282828;
+    color: #ebdbb2;
 }
 
 .box {
     position: absolute;
     transform: translate(-50%, -50%);
     box-shadow: 4px 4px rgba(0, 0, 0, 0.25);
-    background: #093f26;
+    background: #504945;
     border-radius: 12px;
     text-align: center;
     padding: 20px;
@@ -15,6 +15,14 @@ body {
     width: auto;
     left: 50%;
     top: 50%;
+}
+
+.box hr {
+    border-color: #98971a;
+}
+
+.box a:link {
+    text-decoration: none;
 }
 
 .header ul {
@@ -40,21 +48,21 @@ body {
 }
 
 .header li a:hover {
-    background-color: #111;
+    background-color: rgb(46, 46, 46);
 }
 
 .box a:link {
-    color: rgb(26, 103, 180);
+    color: #458588;
 }
 
 .box a:visited {
-    color: rgb(26, 103, 180);
+    color: #458588;
 }
 
 ul a:link {
-    color: #48c438;
+    color: #d79921;
 }
 
 ul a:visited {
-    color: #48c438;
+    color: #d79921;
 }
