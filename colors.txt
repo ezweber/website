@@ -1,9 +1,0 @@
-yellow: #d79921
-gray-bg: #282828
-green: #98971a
-gray: #938274
-forground-tan-white: #ebdbb2
-red: #cc241d
-blue: #458588
-light-gray: a89984
-bg2 #504945
